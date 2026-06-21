@@ -4,15 +4,19 @@
 
 This project analyzes coffee shop transaction data using **Microsoft Excel**. The dashboard helps track sales performance, transaction trends, product performance, and store-level results.
 
-## 🛠️ Tools Used
 
-* Microsoft Excel
-* PivotTables
-* PivotCharts
-* Slicers
-* Excel formulas
-* KPI cards
-* Data cleaning and formatting
+## 🛠️ Tool Used
+Microsoft Excel
+
+## Built-in Excel Features Used
+PivotTables
+PivotCharts
+Slicers
+Excel formulas
+KPI cards
+Data cleaning
+Data formatting
+Combo charts
 
 ## 📊 Key KPIs
 

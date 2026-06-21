@@ -9,14 +9,7 @@ This project analyzes coffee shop transaction data using **Microsoft Excel**. Th
 Microsoft Excel
 
 ## Built-in Excel Features Used
-PivotTables
-PivotCharts
-Slicers
-Excel formulas
-KPI cards
-Data cleaning
-Data formatting
-Combo charts
+PivotTables, PivotCharts, Slicers, Excel formulas, KPI cards, Data cleaning, Data formatting, and Combo charts.
 
 ## 📊 Key KPIs
 
